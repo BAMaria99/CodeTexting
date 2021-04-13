@@ -1,0 +1,12 @@
+.Login {
+    display: grid;
+    place-items: center;
+   height: 150px;
+    margin: 40px;
+    /* //padding-top: 100px; */
+    border-radius: 79px;
+  }
+  
+  .Login > img {
+    width: auto;
+  }
